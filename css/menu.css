@@ -1,0 +1,18 @@
+.wrapper {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.banner {
+    width: 100%;
+    position: relative;
+    font-size: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner img {
+    width: 100%;
+}
